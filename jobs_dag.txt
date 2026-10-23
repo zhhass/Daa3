@@ -1,0 +1,11 @@
+# Job pipeline (DAG) with negative weights; sources are 0 and 1
+7 9 directed
+0 2 5
+1 2 3
+2 3 -2
+2 4 4
+3 5 6
+4 5 -1
+1 4 2
+5 6 3
+3 6 7

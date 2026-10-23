@@ -1,0 +1,7 @@
+# Two separate road networks (0-1-2 and 3-4) plus isolated districts 5 and 6, with a parallel edge
+7 5 undirected
+0 1 5
+1 2 3
+0 2 4
+3 4 2
+3 4 9
